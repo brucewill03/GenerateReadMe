@@ -34,6 +34,6 @@ Integer faucibus diam nec viverra pellentesque. Integer eu lobortis felis. Mauri
 Integer faucibus diam nec viverra pellentesque. Integer eu lobortis felis. Mauris tristique nisl vitae diam hendrerit interdum. Nulla dignissim laoreet felis. Praesent et lacus non nunc congue pharetra. Nullam ultrices nunc id diam rhoncus, id dapibus arcu volutpat. Morbi elementum arcu id fermentum dictum. Aenean luctus nulla sit amet aliquam tempor.
 
 ## Questions
-[GitHub](https://github.com/pamela21)
-[email](mailto:pamelac021@gmail.com)
+[GitHub](https://github.com/brucewill03)
+[email](mailto:brucewill03@yahoo.com)
 Integer faucibus diam nec viverra pellentesque. Integer eu lobortis felis. Mauris tristique nisl vitae diam hendrerit interdum. Nulla dignissim laoreet felis. Praesent et lacus non nunc congue pharetra. Nullam ultrices nunc id diam rhoncus, id dapibus arcu volutpat. Morbi elementum arcu id fermentum dictum. Aenean luctus nulla sit amet aliquam tempor.
